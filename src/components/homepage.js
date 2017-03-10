@@ -6,7 +6,7 @@ var Home = React.createClass({
 	render: function(){
 		return (
 			<div className="jumbotron">
-			<h1> Oswaldinho Administra</h1>
+			<h1> Oswaldinho Quiere Pizzas</h1>
 			<p> React, React Router and Flux</p>
 			
 			</div>);
